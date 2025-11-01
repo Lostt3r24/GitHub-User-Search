@@ -7,4 +7,6 @@ GitHub User Search - простое приложение для поиска п�
 - CSS3  
 - JavaScript
 - GitHub API
- 
+- 
+ ## 🚀 Live Demo
+https://lostt3r.github.io/GitHub-User-Search/
