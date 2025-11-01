@@ -3,7 +3,7 @@ GitHub User Search - простое приложение для поиска п�
 
 ## 🚀 Live Demo
 
-[Посмотреть сайт](https://your-username.github.io/github-user-search)
+[Посмотреть сайт](https://Lostt3r24.github.io/github-user-search)
 
 ## 🛠 Технологии
 
