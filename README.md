@@ -7,3 +7,4 @@ GitHub User Search - простое приложение для поиска п�
 - CSS3  
 - JavaScript
 - GitHub API
+ 
